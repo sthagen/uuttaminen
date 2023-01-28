@@ -1,0 +1,93 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:c2db4040-34d3-4013-a432-605e8320231b",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2023-01-28T20:04:10.012660+00:00",
+    "tools": [
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-bom",
+        "version": "3.10.1"
+      },
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-python-lib",
+        "version": "3.1.5",
+        "externalReferences": [
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/actions",
+            "type": "build-system"
+          },
+          {
+            "url": "https://pypi.org/project/cyclonedx-python-lib/",
+            "type": "distribution"
+          },
+          {
+            "url": "https://cyclonedx.github.io/cyclonedx-python-lib/",
+            "type": "documentation"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/issues",
+            "type": "issue-tracker"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/LICENSE",
+            "type": "license"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/CHANGELOG.md",
+            "type": "release-notes"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib",
+            "type": "vcs"
+          },
+          {
+            "url": "https://cyclonedx.org",
+            "type": "website"
+          }
+        ]
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "0d7caf75-a500-4ec7-a870-31faa56ca10d",
+      "name": "GitPython",
+      "version": "3.1.30",
+      "purl": "pkg:pypi/gitpython@3.1.30"
+    },
+    {
+      "type": "library",
+      "bom-ref": "814eb48e-d0b6-4ded-91f5-4032459e6f3e",
+      "name": "PyYAML",
+      "version": "6.0",
+      "purl": "pkg:pypi/pyyaml@6.0"
+    },
+    {
+      "type": "library",
+      "bom-ref": "1bb133c7-c158-46f4-95f5-9102f6c6377a",
+      "name": "typer",
+      "version": "0.7.0",
+      "purl": "pkg:pypi/typer@0.7.0"
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "0d7caf75-a500-4ec7-a870-31faa56ca10d",
+      "dependsOn": []
+    },
+    {
+      "ref": "814eb48e-d0b6-4ded-91f5-4032459e6f3e",
+      "dependsOn": []
+    },
+    {
+      "ref": "1bb133c7-c158-46f4-95f5-9102f6c6377a",
+      "dependsOn": []
+    }
+  ]
+}
