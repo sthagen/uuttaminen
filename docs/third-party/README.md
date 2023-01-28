@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/uuttaminen/blob/default/sbom.json) with SHA256 checksum ([447d53b1 ...](https://git.sr.ht/~sthagen/uuttaminen/blob/default/sbom.json.sha256 "sha256:447d53b19c4d84dbcd505456d3a8eac9a117b464deca333a9910dcd5d8bb3845")).
-<!--[[[end]]] (checksum: d0db36cd50c329c94abe92c840366886)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/uuttaminen/blob/default/sbom.json) with SHA256 checksum ([27fc1fc8 ...](https://git.sr.ht/~sthagen/uuttaminen/blob/default/sbom.json.sha256 "sha256:27fc1fc88fccb18769f49ebc55905935915be5b8c9ead5e10dc58008acdaa916")).
+<!--[[[end]]] (checksum: abdce010d3d4f713cdce497b0fe31cd9)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -19,9 +19,12 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 ### Indirect Dependencies
 
 <!--[[[fill indirect_dependencies_table()]]]-->
-| Name | Version | License | Author | Description (from packaging data) |
-|:-----|:--------|:--------|:-------|:----------------------------------|
-<!--[[[end]]] (checksum: 8a87b89207db0be2864af66f9266660c)-->
+| Name                                                   | Version                                          | License     | Author          | Description (from packaging data)                                   |
+|:-------------------------------------------------------|:-------------------------------------------------|:------------|:----------------|:--------------------------------------------------------------------|
+| [click](https://palletsprojects.com/p/click/)          | [8.1.3](https://pypi.org/project/click/8.1.3/)   | BSD License | Armin Ronacher  | Composable command line interface toolkit                           |
+| [gitdb](https://github.com/gitpython-developers/gitdb) | [4.0.10](https://pypi.org/project/gitdb/4.0.10/) | BSD License | Sebastian Thiel | Git Object Database                                                 |
+| [smmap](https://github.com/gitpython-developers/smmap) | [5.0.0](https://pypi.org/project/smmap/5.0.0/)   | BSD License | Sebastian Thiel | A pure Python implementation of a sliding window memory map manager |
+<!--[[[end]]] (checksum: 96b6ce9789804a79d61fdc2413fdb173)-->
 
 ## Dependency Tree(s)
 
