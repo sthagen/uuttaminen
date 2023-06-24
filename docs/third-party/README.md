@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/uuttaminen/blob/default/sbom.json) with SHA256 checksum ([27fc1fc8 ...](https://git.sr.ht/~sthagen/uuttaminen/blob/default/sbom.json.sha256 "sha256:27fc1fc88fccb18769f49ebc55905935915be5b8c9ead5e10dc58008acdaa916")).
-<!--[[[end]]] (checksum: abdce010d3d4f713cdce497b0fe31cd9)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/uuttaminen/blob/default/sbom/cdx.json) with SHA256 checksum ([187f73df ...](https://git.sr.ht/~sthagen/uuttaminen/blob/default/sbom/cdx.json.sha256 "sha256:187f73dfc1aa3faf009cfe8e138d96bbbd587769924f005bd03da2cd664d95c4")).
+<!--[[[end]]] (checksum: a34b2fb35dc983d452104b8f7330cd8c)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -41,8 +41,8 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 <!--[[[fill dependency_tree_console_text()]]]-->
 ````console
 GitPython==3.1.30
-  - gitdb [required: >=4.0.1,<5, installed: 4.0.10]
-    - smmap [required: >=3.0.1,<6, installed: 5.0.0]
+└── gitdb [required: >=4.0.1,<5, installed: 4.0.10]
+    └── smmap [required: >=3.0.1,<6, installed: 5.0.0]
 PyYAML==6.0
 ````
-<!--[[[end]]] (checksum: 36d86eebffd2e60effbe82e1e25c9bec)-->
+<!--[[[end]]] (checksum: 2b71176ce7989bb7c5bc41552840d78b)-->
