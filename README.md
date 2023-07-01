@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](docs/third-p
 [![wheel](https://img.shields.io/pypi/wheel/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/uuttaminen.svg?style=flat)](https://git.sr.ht/~sthagen/uuttaminen/log)
 
 ## Documentation
 
