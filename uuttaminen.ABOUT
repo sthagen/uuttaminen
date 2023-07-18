@@ -1,0 +1,14 @@
+name: uuttaminen
+description: Extraction (Finnish: uuttaminen) of source code for embedding into markdown documents as fenced blocks.
+license_spdx: MIT
+version: 2023.1.28
+spec_version: 1.0
+home_url: https://git.sr.ht/~sthagen/uuttaminen
+news_url: https://libraries.io/pypi/uuttaminen/versions.atom
+date: 2023-01-28
+about_resource: ./
+libraries_io_url: https://libraries.io/pypi/uuttaminen?number=2023.1.28
+vcs_tool: git
+vcs_repository: https://git.sr.ht/~sthagen/uuttaminen
+vcs_branch: default
+
