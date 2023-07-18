@@ -1,5 +1,7 @@
 site_name: Uuttaminen
 site_description: "Extraction (Finnish: uuttaminen) of source code for embedding into markdown documents as fenced blocks."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
