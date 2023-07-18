@@ -2,15 +2,15 @@
   "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
   "bomFormat": "CycloneDX",
   "specVersion": "1.4",
-  "serialNumber": "urn:uuid:e5f96fb0-8fe7-423a-a62b-883b857ce157",
+  "serialNumber": "urn:uuid:7d2d1a40-cbbc-4be1-ae14-3067648ac354",
   "version": 1,
   "metadata": {
-    "timestamp": "2023-06-24T20:45:13.502267+00:00",
+    "timestamp": "2023-07-18T17:15:18.232617+00:00",
     "tools": [
       {
         "vendor": "CycloneDX",
         "name": "cyclonedx-bom",
-        "version": "3.11.0"
+        "version": "3.11.2"
       },
       {
         "vendor": "CycloneDX",
@@ -56,37 +56,37 @@
   "components": [
     {
       "type": "library",
-      "bom-ref": "63e2b9c7-ec37-4e89-afb6-67e069d9eab0",
+      "bom-ref": "ff59e5ac-a788-4584-b571-996286ab8d42",
       "name": "GitPython",
-      "version": "3.1.30",
-      "purl": "pkg:pypi/gitpython@3.1.30"
+      "version": "3.1.32",
+      "purl": "pkg:pypi/gitpython@3.1.32"
     },
     {
       "type": "library",
-      "bom-ref": "1f8cb477-c2b2-4dae-8c6a-2f60db744200",
+      "bom-ref": "be13cd6a-8fce-4393-a3ce-fdd94bb1b1ea",
       "name": "PyYAML",
-      "version": "6.0",
-      "purl": "pkg:pypi/pyyaml@6.0"
+      "version": "6.0.1",
+      "purl": "pkg:pypi/pyyaml@6.0.1"
     },
     {
       "type": "library",
-      "bom-ref": "112481bc-7176-41d3-b8dd-b0e6581cd847",
+      "bom-ref": "3240c9f8-be2e-4ffa-b445-390c8dd2c1d8",
       "name": "typer",
-      "version": "0.7.0",
-      "purl": "pkg:pypi/typer@0.7.0"
+      "version": "0.9.0",
+      "purl": "pkg:pypi/typer@0.9.0"
     }
   ],
   "dependencies": [
     {
-      "ref": "63e2b9c7-ec37-4e89-afb6-67e069d9eab0",
+      "ref": "ff59e5ac-a788-4584-b571-996286ab8d42",
       "dependsOn": []
     },
     {
-      "ref": "1f8cb477-c2b2-4dae-8c6a-2f60db744200",
+      "ref": "be13cd6a-8fce-4393-a3ce-fdd94bb1b1ea",
       "dependsOn": []
     },
     {
-      "ref": "112481bc-7176-41d3-b8dd-b0e6581cd847",
+      "ref": "3240c9f8-be2e-4ffa-b445-390c8dd2c1d8",
       "dependsOn": []
     }
   ]
