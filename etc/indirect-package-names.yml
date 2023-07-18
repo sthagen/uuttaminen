@@ -1,5 +1,6 @@
 ---
 packages:
+- click
 - gitdb
 - smmap
-- click
+- typing-extensions
