@@ -7,7 +7,7 @@ Extraction (Finnish: uuttaminen) of source code for embedding into markdown docu
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
-[![downloads](https://pepy.tech/badge/uuttaminen/month)](https://pepy.tech/project/uuttaminen)
+[![downloads](https://static.pepy.tech/badge/uuttaminen/month)](https://pepy.tech/project/uuttaminen)
 [![wheel](https://img.shields.io/pypi/wheel/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
