@@ -10,7 +10,7 @@ Extraction (Finnish: uuttaminen) of source code for embedding into markdown docu
 [![Version](https://img.shields.io/pypi/v/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
 [![Downloads](https://static.pepy.tech/badge/uuttaminen/month)](https://pepy.tech/project/uuttaminen)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/uuttaminen.svg?style=flat)](https://pypi.python.org/pypi/uuttaminen/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/uuttaminen.svg?style=flat)](https://git.sr.ht/~sthagen/uuttaminen/log)
+[![Maintenance Status](docs/badges/downloads-per-month.svg)](https://git.sr.ht/~sthagen/uuttaminen/log)
 
 ## Bug Tracker
 
