@@ -23,7 +23,7 @@ classifiers = [
 ]
 keywords = ["developer-tools", "devops"]
 dependencies = [
-    "GitPython >= 3.1.45",
+    "GitPython >= 3.1.50",
     "PyYAML >= 6.0.3",
     "typer >= 0.20.0",
 ]
